@@ -1,4 +1,6 @@
 ### Olá meu nome é Gabriel Silva Ribeiro 👍
+<br><strong>
+Minhas redes sociais: </strong><br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielrsilva_7/?next=%2F)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-silva-ribeiro-915126239/)
