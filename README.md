@@ -23,8 +23,3 @@ Minhas redes sociais: </strong><br>
 <br>
 
 Amo a tecnologia e principalmente programar, meu passatempo preferido da minha vida. <br>
-
-### Além de programar eu gosto de:
-- Jogar futebol.
-- Escutar músicas (tenho preferência raps americanos).
-- Assistir animes, meus preferidos são: One Piece e Naruto.
